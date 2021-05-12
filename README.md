@@ -1,2 +1,2 @@
 # Mini_Project
-Lungs Dataset-
+Lungs Dataset-https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
